@@ -1,4 +1,4 @@
-# Nginx React Ready
+# Nginx React Ready
 
 This image replaces the Nginx `default.conf` file in order to correctly serve a SPA with routing. Is based on Romain Cauquil's publication ["How to use react-router with Nginx and Docker"](https://romaincauquil.fr/blog/2017/how-to-use-react-router-nginx-docker/).
 
